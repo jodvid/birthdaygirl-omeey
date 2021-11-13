@@ -1,0 +1,70 @@
+
+
+/*GREET*/
+h1 {
+  position: absolute;
+  margin-top: 10vh;
+  width: 100%;
+  text-align: center;
+  font-size: 333%;
+  font-family: sans-serif;
+  color: black;
+  opacity: 0.9;
+}
+
+/*PICTURE*/
+img.omets {
+
+    position: absolute;
+  margin-top: 30vh;
+  margin-right: 25%;
+  margin-left: 35%;
+  margin-bottom: 100%;
+  opacity: 0.9;
+  display: block;
+    width: 30%;
+}
+
+/*MENSAHE*/
+P {
+  position: absolute;
+  margin-top: 30vh;
+  width: 30%;
+  text-align: left ;
+  opacity: 0.9;  
+  border: 0.5em solid hotpink;
+  font-size: 2rem;
+
+  
+  
+
+  
+
+}
+
+
+
+/*HOVER*/
+.omets:hover {
+
+    width: 37%;
+    opacity: 1;
+    border: 50px;
+    border-color:blue ;
+    
+
+
+    
+    
+}
+
+/*CONFETI*/
+canvas {
+  overflow-y: hidden;
+  overflow-x: hidden;
+  width: 100%;
+  margin: 0;
+}
+
+
+
